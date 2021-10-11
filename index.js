@@ -1,7 +1,8 @@
 // Require Libraries
 const inquirer = require("inquirer");
+const path = require("path");
 
 // Require libraries
-const Manager = require("");
-const Engineer = require("");
-const Intern = require("");
+const Manager = require("./lib/Manager");
+const Engineer = require("./lib/Engineer");
+const Intern = require("./lib/Intern");
