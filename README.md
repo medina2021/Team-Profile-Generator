@@ -6,5 +6,5 @@ This project is a command-line application that takes in information about emplo
 
 ## Links to Video Walk-Through
 
-Google Drive: https://drive.google.com/file/d/1oMj0r59IRLoljQTbtSpgQeBc7UqRP2Xr/view
+Google Drive: https://drive.google.com/file/d/1oMj0r59IRLoljQTbtSpgQeBc7UqRP2Xr/view  
 Youtube: https://youtu.be/IwlPsBRwgHY
